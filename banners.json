@@ -1,16 +1,6 @@
-{
-  "banners": [
-    {
-      "banner": "https://cdn.jsdelivr.net/gh/wlstreamingoficial-web/WL-STREAMING-@main/imagens/4EAAwpylq313qrDqpCxulUrXBNF.webp"
-    },
-    {
-      "banner": "https://cdn.jsdelivr.net/gh/wlstreamingoficial-web/WL-STREAMING-@main/imagens/50yWyY981TyUHhoxxSEKwO70FmQ.webp"
-    },
-    {
-      "banner": "https://cdn.jsdelivr.net/gh/wlstreamingoficial-web/WL-STREAMING-@main/imagens/8Tfys3mDZVp4tNoH2ktm06a0Tau.webp"
-    },
-    {
-      "banner": "https://cdn.jsdelivr.net/gh/wlstreamingoficial-web/WL-STREAMING-@main/imagens/9Z2uDYXqJrlmePznQQJhL6d92Rq.webp"
-    }
-  ]
-}
+[
+  "https://cdn.jsdelivr.net/gh/wlstreamingoficial-web/WL-STREAMING-@main/imagens/4EAAwpylq313qrDqpCxulUrXBNF.webp",
+  "https://cdn.jsdelivr.net/gh/wlstreamingoficial-web/WL-STREAMING-@main/imagens/50yWyY981TyUHhoxxSEKwO70FmQ.webp",
+  "https://cdn.jsdelivr.net/gh/wlstreamingoficial-web/WL-STREAMING-@main/imagens/8Tfys3mDZVp4tNoH2ktm06a0Tau.webp",
+  "https://cdn.jsdelivr.net/gh/wlstreamingoficial-web/WL-STREAMING-@main/imagens/9Z2uDYXqJrlmePznQQJhL6d92Rq.webp"
+]
